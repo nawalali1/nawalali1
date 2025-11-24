@@ -16,7 +16,7 @@ I build software with a focus on full stack development, backend engineering and
 
 ## Selected Projects
 
-### **CareerNext-v2**
+### **CareerNext**
 AI supported career discovery platform with a multi step quiz, live job search and an integrated CV builder.  
 Built with Next.js, React, OpenAI and Google Gemini.  
 Live: https://careernext-next.vercel.app
@@ -26,7 +26,7 @@ Machine learning web application that predicts fraudulent credit card transactio
 Built with Python, Flask and AWS Elastic Beanstalk, including a trained model and database initialisation.  
 Live: http://fraud-detector-env.eba-wjpngskr.eu-west-2.elasticbeanstalk.com/
 
-### **calmscroll2**
+### **calmscroll**
 A wellness and focus web application with mood tracking, guided breathing and a clean mobile first layout.  
 Built with Next.js, React, Tailwind and Amplify.  
 Live: https://main.d1c5qnh13swymm.amplifyapp.com/
