@@ -16,12 +16,13 @@ I build software with a focus on full stack development, backend engineering and
 AI supported career discovery platform with a multi step quiz, live job search and an integrated CV builder.  
 Live: https://careernext-next.vercel.app
 
+**fraud-detector**  
+A machine learning web app that predicts fraudulent credit card transactions and is deployed on AWS Elastic Beanstalk.
+Live: http://fraud-detector-env.eba-wjpngskr.eu-west-2.elasticbeanstalk.com/
+
 **calmscroll2**  
 A wellness and focus web application with mood tracking, guided breathing and a mobile first layout.  
 Live: https://main.d1g240qiioy3gc.amplifyapp.com
-
-**fraud-detector**  
-A machine learning web app that predicts fraudulent credit card transactions and is deployed on AWS Elastic Beanstalk.
 
 **pdf-invoice-extractor**  
 Python automation tool that extracts key details from PDF invoices and exports them to CSV.
