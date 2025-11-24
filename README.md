@@ -29,7 +29,7 @@ Live: http://fraud-detector-env.eba-wjpngskr.eu-west-2.elasticbeanstalk.com/
 ### **calmscroll2**
 A wellness and focus web application with mood tracking, guided breathing and a clean mobile first layout.  
 Built with Next.js, React, Tailwind and Amplify.  
-Live: https://main.d1g240qijoy3gc.amplifyapp.com
+Live: https://main.d1c5qnh13swymm.amplifyapp.com/
 
 ### **pdf-invoice-extractor**
 Python automation tool that extracts key fields from PDF invoices and exports structured data to CSV.  
