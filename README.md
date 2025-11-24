@@ -18,7 +18,7 @@ Live: https://careernext-next.vercel.app
 
 **fraud-detector**  
 A machine learning web app that predicts fraudulent credit card transactions and is deployed on AWS Elastic Beanstalk.
-Live: http://fraud-detector-env.eba-wjpngskr.eu-west-2.elasticbeanstalk.com/
+      Live: http://fraud-detector-env.eba-wjpngskr.eu-west-2.elasticbeanstalk.com/
 
 **calmscroll2**  
 A wellness and focus web application with mood tracking, guided breathing and a mobile first layout.  
